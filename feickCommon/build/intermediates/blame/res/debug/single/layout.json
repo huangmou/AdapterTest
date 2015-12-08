@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\debug\\layout\\layout_product_comment_start.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\layout\\layout_product_comment_start.xml"
+    }
+]

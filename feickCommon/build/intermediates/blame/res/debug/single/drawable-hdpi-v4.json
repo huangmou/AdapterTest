@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_order_datile_star_da.png",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable-hdpi\\user_order_datile_star_da.png"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_order_datile_no_star.png",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable-hdpi\\user_order_datile_no_star.png"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_order_datile_no_star_da.png",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable-hdpi\\user_order_datile_no_star_da.png"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_order_datile_star.png",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable-hdpi\\user_order_datile_star.png"
+    }
+]

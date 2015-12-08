@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\release\\drawable\\gl_btn_green_normal.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable\\gl_btn_green_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\release\\drawable\\gl_btn_green.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable\\gl_btn_green.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\release\\drawable\\red_round_bg.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable\\red_round_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\release\\drawable\\gl_btn_gray_click.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable\\gl_btn_gray_click.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\release\\drawable\\yellow_round_bg.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable\\yellow_round_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\release\\drawable\\gl_btn_gray.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable\\gl_btn_gray.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\release\\drawable\\gl_btn_gray_normal.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable\\gl_btn_gray_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\release\\drawable\\gl_btn_green_click.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable\\gl_btn_green_click.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AdapterTest\\feickCommon\\build\\intermediates\\res\\merged\\release\\drawable\\white_round_bg.xml",
+        "source": "D:\\workspace\\AdapterTest\\feickCommon\\src\\main\\res\\drawable\\white_round_bg.xml"
+    }
+]

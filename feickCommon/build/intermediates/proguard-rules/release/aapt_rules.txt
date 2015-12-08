@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:22
+-keep class com.jason.feick.AAAAcitivty { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.jason.feick.AFinalActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.jason.feick.IntrusionActivity { <init>(...); }
+
